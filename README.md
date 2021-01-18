@@ -1,4 +1,4 @@
-# apontamento
+# flutter-mvvm-example
 
 A new Flutter application.
 
